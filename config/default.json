@@ -1,3 +1,5 @@
 {
-    "dbURI": "DATABASE_URI_GOES_HERE"
+    "dbURI": "DATABASE_URI_GOES_HERE",
+    "jwtsecret": "",
+    "StripeAPIKey": ""
 }
